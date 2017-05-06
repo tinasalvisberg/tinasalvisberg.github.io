@@ -1,4 +1,8 @@
 /*This is my css file to style my static website */
+body {
+font-family: "Open Sans", sans-serif;
+}
+
 h1 {
-color: #00b285;  
+color: #00b285;
 }
