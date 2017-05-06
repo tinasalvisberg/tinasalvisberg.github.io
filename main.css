@@ -1,17 +1,19 @@
 /*This is my css file to style my static website */
 body {
-font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 h1 {
-color: #000000;
+  color: #000000;
 }
-
 #header {
   padding-top: 25px;
   padding-bottom: 25px;
   text-align: center;
   background-color: #00b285;
+}
+.content {
+  margin-left: 20px;
 }
 .red_bold {
   color: #ff0000;
