@@ -4,5 +4,16 @@ font-family: "Open Sans", sans-serif;
 }
 
 h1 {
-color: #00b285;
+color: #000000;
+}
+
+#header {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-align: center;
+  background-color: #00b285;
+}
+.red_bold {
+  color: #ff0000;
+  font-weight: bold;
 }
